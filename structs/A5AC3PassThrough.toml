@@ -1,0 +1,10 @@
+[metadata]
+name = "A5AC3PassThrough"
+size = 0x8
+last_change = 2024-03-29T17:02:49.475015Z
+
+[members.0x0]
+name = "vt"
+offset = 0x0
+type = "struct A5AC3PassThrough_vt* const"
+size = 0x8
