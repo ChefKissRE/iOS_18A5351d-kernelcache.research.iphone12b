@@ -1,0 +1,310 @@
+[metadata]
+name = "AppleBCMWLANPCIeSkywalkTxCompletionQueue_vt"
+size = 0x1a8
+last_change = 2024-04-03T08:32:07.942177Z
+
+[members.0x10]
+name = "~AppleBCMWLANPCIeSkywalkTxCompletionQueue"
+offset = 0x10
+type = "void* const"
+size = 0x8
+
+[members.0x18]
+name = "~AppleBCMWLANPCIeSkywalkTxCompletionQueue_1"
+offset = 0x18
+type = "void* const"
+size = 0x8
+
+[members.0x20]
+name = "release"
+offset = 0x20
+type = "void* const"
+size = 0x8
+
+[members.0x28]
+name = "getRetainCount"
+offset = 0x28
+type = "void* const"
+size = 0x8
+
+[members.0x30]
+name = "retain"
+offset = 0x30
+type = "void* const"
+size = 0x8
+
+[members.0x38]
+name = "release_1"
+offset = 0x38
+type = "void* const"
+size = 0x8
+
+[members.0x40]
+name = "serialize"
+offset = 0x40
+type = "void* const"
+size = 0x8
+
+[members.0x48]
+name = "getMetaClass"
+offset = 0x48
+type = "void* const"
+size = 0x8
+
+[members.0x50]
+name = "isEqualTo"
+offset = 0x50
+type = "void* const"
+size = 0x8
+
+[members.0x58]
+name = "taggedRetain"
+offset = 0x58
+type = "void* const"
+size = 0x8
+
+[members.0x60]
+name = "taggedRelease"
+offset = 0x60
+type = "void* const"
+size = 0x8
+
+[members.0x68]
+name = "taggedRelease_1"
+offset = 0x68
+type = "void* const"
+size = 0x8
+
+[members.0x70]
+name = "Dispatch"
+offset = 0x70
+type = "void* const"
+size = 0x8
+
+[members.0x78]
+name = "init"
+offset = 0x78
+type = "void* const"
+size = 0x8
+
+[members.0x80]
+name = "free"
+offset = 0x80
+type = "void* const"
+size = 0x8
+
+[members.0x88]
+name = "init_1"
+offset = 0x88
+type = "void* const"
+size = 0x8
+
+[members.0x90]
+name = "checkForWork"
+offset = 0x90
+type = "void* const"
+size = 0x8
+
+[members.0x98]
+name = "setWorkLoop"
+offset = 0x98
+type = "void* const"
+size = 0x8
+
+[members.0xa0]
+name = "setNext"
+offset = 0xa0
+type = "void* const"
+size = 0x8
+
+[members.0xa8]
+name = "getNext"
+offset = 0xa8
+type = "void* const"
+size = 0x8
+
+[members.0xb0]
+name = "setAction"
+offset = 0xb0
+type = "void* const"
+size = 0x8
+
+[members.0xb8]
+name = "getAction"
+offset = 0xb8
+type = "void* const"
+size = 0x8
+
+[members.0xc0]
+name = "enable"
+offset = 0xc0
+type = "void* const"
+size = 0x8
+
+[members.0xc8]
+name = "disable"
+offset = 0xc8
+type = "void* const"
+size = 0x8
+
+[members.0xd0]
+name = "isEnabled"
+offset = 0xd0
+type = "void* const"
+size = 0x8
+
+[members.0xd8]
+name = "getWorkLoop"
+offset = 0xd8
+type = "void* const"
+size = 0x8
+
+[members.0xe0]
+name = "onThread"
+offset = 0xe0
+type = "void* const"
+size = 0x8
+
+[members.0xe8]
+name = "initialize"
+offset = 0xe8
+type = "void* const"
+size = 0x8
+
+[members.0xf0]
+name = "finalize"
+offset = 0xf0
+type = "void* const"
+size = 0x8
+
+[members.0xf8]
+name = "synchronize"
+offset = 0xf8
+type = "void* const"
+size = 0x8
+
+[members.0x100]
+name = "syncPackets"
+offset = 0x100
+type = "void* const"
+size = 0x8
+
+[members.0x108]
+name = "sendNotification"
+offset = 0x108
+type = "void* const"
+size = 0x8
+
+[members.0x110]
+name = "handleDoorbell"
+offset = 0x110
+type = "void* const"
+size = 0x8
+
+[members.0x118]
+name = "getPacketBufferPool"
+offset = 0x118
+type = "void* const"
+size = 0x8
+
+[members.0x120]
+name = "setPacketBufferPool"
+offset = 0x120
+type = "void* const"
+size = 0x8
+
+[members.0x128]
+name = "getPacketCount"
+offset = 0x128
+type = "void* const"
+size = 0x8
+
+[members.0x130]
+name = "getPacketBufferCount"
+offset = 0x130
+type = "void* const"
+size = 0x8
+
+[members.0x138]
+name = "getFreeSpace"
+offset = 0x138
+type = "void* const"
+size = 0x8
+
+[members.0x140]
+name = "getDataByteCount"
+offset = 0x140
+type = "void* const"
+size = 0x8
+
+[members.0x148]
+name = "setPacketPoller"
+offset = 0x148
+type = "void* const"
+size = 0x8
+
+[members.0x150]
+name = "performCommand"
+offset = 0x150
+type = "void* const"
+size = 0x8
+
+[members.0x158]
+name = "packetCompletion"
+offset = 0x158
+type = "void* const"
+size = 0x8
+
+[members.0x160]
+name = "bufferCompletion"
+offset = 0x160
+type = "void* const"
+size = 0x8
+
+[members.0x168]
+name = "initWithPool"
+offset = 0x168
+type = "void* const"
+size = 0x8
+
+[members.0x170]
+name = "requestEnqueue"
+offset = 0x170
+type = "void* const"
+size = 0x8
+
+[members.0x178]
+name = "enqueuePackets"
+offset = 0x178
+type = "void* const"
+size = 0x8
+
+[members.0x180]
+name = "enqueuePackets_1"
+offset = 0x180
+type = "void* const"
+size = 0x8
+
+[members.0x188]
+name = "initWithPool_1"
+offset = 0x188
+type = "void* const"
+size = 0x8
+
+[members.0x190]
+name = "initWithPoolAndQueueInfo"
+offset = 0x190
+type = "void* const"
+size = 0x8
+
+[members.0x198]
+name = "enqueuePackets_2"
+offset = 0x198
+type = "void* const"
+size = 0x8
+
+[members.0x1a0]
+name = "collectQueueStats"
+offset = 0x1a0
+type = "void* const"
+size = 0x8
