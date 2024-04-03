@@ -1,0 +1,10 @@
+[metadata]
+name = "IOTimeSyncTimedEdgeGenerator"
+size = 0xc0
+last_change = 2024-04-03T08:32:07.957219Z
+
+[members.0x0]
+name = "vt"
+offset = 0x0
+type = "struct IOTimeSyncTimedEdgeGenerator_vt* const"
+size = 0x8
