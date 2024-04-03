@@ -1,0 +1,88 @@
+[metadata]
+name = "IOSurfaceSharedEventReference::MetaClass_vt"
+size = 0x80
+last_change = 2024-04-03T08:32:07.938586Z
+
+[members.0x10]
+name = "~MetaClass"
+offset = 0x10
+type = "void* const"
+size = 0x8
+
+[members.0x18]
+name = "~MetaClass_1"
+offset = 0x18
+type = "void* const"
+size = 0x8
+
+[members.0x20]
+name = "release"
+offset = 0x20
+type = "void* const"
+size = 0x8
+
+[members.0x28]
+name = "getRetainCount"
+offset = 0x28
+type = "void* const"
+size = 0x8
+
+[members.0x30]
+name = "retain"
+offset = 0x30
+type = "void* const"
+size = 0x8
+
+[members.0x38]
+name = "release_1"
+offset = 0x38
+type = "void* const"
+size = 0x8
+
+[members.0x40]
+name = "serialize"
+offset = 0x40
+type = "void* const"
+size = 0x8
+
+[members.0x48]
+name = "getMetaClass"
+offset = 0x48
+type = "void* const"
+size = 0x8
+
+[members.0x50]
+name = "isEqualTo"
+offset = 0x50
+type = "void* const"
+size = 0x8
+
+[members.0x58]
+name = "taggedRetain"
+offset = 0x58
+type = "void* const"
+size = 0x8
+
+[members.0x60]
+name = "taggedRelease"
+offset = 0x60
+type = "void* const"
+size = 0x8
+
+[members.0x68]
+name = "taggedRelease_1"
+offset = 0x68
+type = "void* const"
+size = 0x8
+
+[members.0x70]
+name = "_RESERVEDOSMetaClassBase3"
+offset = 0x70
+type = "void* const"
+size = 0x8
+
+[members.0x78]
+name = "alloc"
+offset = 0x78
+type = "void* const"
+size = 0x8
