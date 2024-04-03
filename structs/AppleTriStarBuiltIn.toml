@@ -1,0 +1,10 @@
+[metadata]
+name = "AppleTriStarBuiltIn"
+size = 0x1170
+last_change = 2024-04-03T08:32:07.934499Z
+
+[members.0x0]
+name = "vt"
+offset = 0x0
+type = "struct AppleTriStarBuiltIn_vt* const"
+size = 0x8
