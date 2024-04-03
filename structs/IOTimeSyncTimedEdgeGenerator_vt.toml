@@ -1,0 +1,1060 @@
+[metadata]
+name = "IOTimeSyncTimedEdgeGenerator_vt"
+size = 0x590
+last_change = 2024-04-03T08:32:07.954701Z
+
+[members.0x10]
+name = "~IOTimeSyncTimedEdgeGenerator"
+offset = 0x10
+type = "void* const"
+size = 0x8
+
+[members.0x18]
+name = "~IOTimeSyncTimedEdgeGenerator_1"
+offset = 0x18
+type = "void* const"
+size = 0x8
+
+[members.0x20]
+name = "release"
+offset = 0x20
+type = "void* const"
+size = 0x8
+
+[members.0x28]
+name = "getRetainCount"
+offset = 0x28
+type = "void* const"
+size = 0x8
+
+[members.0x30]
+name = "retain"
+offset = 0x30
+type = "void* const"
+size = 0x8
+
+[members.0x38]
+name = "release_1"
+offset = 0x38
+type = "void* const"
+size = 0x8
+
+[members.0x40]
+name = "serialize"
+offset = 0x40
+type = "void* const"
+size = 0x8
+
+[members.0x48]
+name = "getMetaClass"
+offset = 0x48
+type = "void* const"
+size = 0x8
+
+[members.0x50]
+name = "isEqualTo"
+offset = 0x50
+type = "void* const"
+size = 0x8
+
+[members.0x58]
+name = "taggedRetain"
+offset = 0x58
+type = "void* const"
+size = 0x8
+
+[members.0x60]
+name = "taggedRelease"
+offset = 0x60
+type = "void* const"
+size = 0x8
+
+[members.0x68]
+name = "taggedRelease_1"
+offset = 0x68
+type = "void* const"
+size = 0x8
+
+[members.0x70]
+name = "Dispatch"
+offset = 0x70
+type = "void* const"
+size = 0x8
+
+[members.0x78]
+name = "init"
+offset = 0x78
+type = "void* const"
+size = 0x8
+
+[members.0x80]
+name = "free"
+offset = 0x80
+type = "void* const"
+size = 0x8
+
+[members.0x88]
+name = "copyProperty"
+offset = 0x88
+type = "void* const"
+size = 0x8
+
+[members.0x90]
+name = "copyProperty_1"
+offset = 0x90
+type = "void* const"
+size = 0x8
+
+[members.0x98]
+name = "copyProperty_2"
+offset = 0x98
+type = "void* const"
+size = 0x8
+
+[members.0xa0]
+name = "copyParentEntry"
+offset = 0xa0
+type = "void* const"
+size = 0x8
+
+[members.0xa8]
+name = "copyChildEntry"
+offset = 0xa8
+type = "void* const"
+size = 0x8
+
+[members.0xb0]
+name = "runPropertyAction"
+offset = 0xb0
+type = "void* const"
+size = 0x8
+
+[members.0xb8]
+name = "init_1"
+offset = 0xb8
+type = "void* const"
+size = 0x8
+
+[members.0xc0]
+name = "setPropertyTable"
+offset = 0xc0
+type = "void* const"
+size = 0x8
+
+[members.0xc8]
+name = "setProperty"
+offset = 0xc8
+type = "void* const"
+size = 0x8
+
+[members.0xd0]
+name = "setProperty_1"
+offset = 0xd0
+type = "void* const"
+size = 0x8
+
+[members.0xd8]
+name = "setProperty_2"
+offset = 0xd8
+type = "void* const"
+size = 0x8
+
+[members.0xe0]
+name = "setProperty_3"
+offset = 0xe0
+type = "void* const"
+size = 0x8
+
+[members.0xe8]
+name = "setProperty_4"
+offset = 0xe8
+type = "void* const"
+size = 0x8
+
+[members.0xf0]
+name = "setProperty_5"
+offset = 0xf0
+type = "void* const"
+size = 0x8
+
+[members.0xf8]
+name = "setProperty_6"
+offset = 0xf8
+type = "void* const"
+size = 0x8
+
+[members.0x100]
+name = "removeProperty"
+offset = 0x100
+type = "void* const"
+size = 0x8
+
+[members.0x108]
+name = "removeProperty_1"
+offset = 0x108
+type = "void* const"
+size = 0x8
+
+[members.0x110]
+name = "removeProperty_2"
+offset = 0x110
+type = "void* const"
+size = 0x8
+
+[members.0x118]
+name = "getProperty"
+offset = 0x118
+type = "void* const"
+size = 0x8
+
+[members.0x120]
+name = "getProperty_1"
+offset = 0x120
+type = "void* const"
+size = 0x8
+
+[members.0x128]
+name = "getProperty_2"
+offset = 0x128
+type = "void* const"
+size = 0x8
+
+[members.0x130]
+name = "getProperty_3"
+offset = 0x130
+type = "void* const"
+size = 0x8
+
+[members.0x138]
+name = "getProperty_4"
+offset = 0x138
+type = "void* const"
+size = 0x8
+
+[members.0x140]
+name = "getProperty_5"
+offset = 0x140
+type = "void* const"
+size = 0x8
+
+[members.0x148]
+name = "copyProperty_3"
+offset = 0x148
+type = "void* const"
+size = 0x8
+
+[members.0x150]
+name = "copyProperty_4"
+offset = 0x150
+type = "void* const"
+size = 0x8
+
+[members.0x158]
+name = "copyProperty_5"
+offset = 0x158
+type = "void* const"
+size = 0x8
+
+[members.0x160]
+name = "dictionaryWithProperties"
+offset = 0x160
+type = "void* const"
+size = 0x8
+
+[members.0x168]
+name = "serializeProperties"
+offset = 0x168
+type = "void* const"
+size = 0x8
+
+[members.0x170]
+name = "setProperties"
+offset = 0x170
+type = "void* const"
+size = 0x8
+
+[members.0x178]
+name = "getParentIterator"
+offset = 0x178
+type = "void* const"
+size = 0x8
+
+[members.0x180]
+name = "applyToParents"
+offset = 0x180
+type = "void* const"
+size = 0x8
+
+[members.0x188]
+name = "getParentEntry"
+offset = 0x188
+type = "void* const"
+size = 0x8
+
+[members.0x190]
+name = "getChildIterator"
+offset = 0x190
+type = "void* const"
+size = 0x8
+
+[members.0x198]
+name = "applyToChildren"
+offset = 0x198
+type = "void* const"
+size = 0x8
+
+[members.0x1a0]
+name = "getChildEntry"
+offset = 0x1a0
+type = "void* const"
+size = 0x8
+
+[members.0x1a8]
+name = "isChild"
+offset = 0x1a8
+type = "void* const"
+size = 0x8
+
+[members.0x1b0]
+name = "isParent"
+offset = 0x1b0
+type = "void* const"
+size = 0x8
+
+[members.0x1b8]
+name = "inPlane"
+offset = 0x1b8
+type = "void* const"
+size = 0x8
+
+[members.0x1c0]
+name = "getDepth"
+offset = 0x1c0
+type = "void* const"
+size = 0x8
+
+[members.0x1c8]
+name = "attachToParent"
+offset = 0x1c8
+type = "void* const"
+size = 0x8
+
+[members.0x1d0]
+name = "detachFromParent"
+offset = 0x1d0
+type = "void* const"
+size = 0x8
+
+[members.0x1d8]
+name = "attachToChild"
+offset = 0x1d8
+type = "void* const"
+size = 0x8
+
+[members.0x1e0]
+name = "detachFromChild"
+offset = 0x1e0
+type = "void* const"
+size = 0x8
+
+[members.0x1e8]
+name = "detachAbove"
+offset = 0x1e8
+type = "void* const"
+size = 0x8
+
+[members.0x1f0]
+name = "detachAll"
+offset = 0x1f0
+type = "void* const"
+size = 0x8
+
+[members.0x1f8]
+name = "getName"
+offset = 0x1f8
+type = "void* const"
+size = 0x8
+
+[members.0x200]
+name = "copyName"
+offset = 0x200
+type = "void* const"
+size = 0x8
+
+[members.0x208]
+name = "compareNames"
+offset = 0x208
+type = "void* const"
+size = 0x8
+
+[members.0x210]
+name = "compareName"
+offset = 0x210
+type = "void* const"
+size = 0x8
+
+[members.0x218]
+name = "setName"
+offset = 0x218
+type = "void* const"
+size = 0x8
+
+[members.0x220]
+name = "setName_1"
+offset = 0x220
+type = "void* const"
+size = 0x8
+
+[members.0x228]
+name = "getLocation"
+offset = 0x228
+type = "void* const"
+size = 0x8
+
+[members.0x230]
+name = "copyLocation"
+offset = 0x230
+type = "void* const"
+size = 0x8
+
+[members.0x238]
+name = "setLocation"
+offset = 0x238
+type = "void* const"
+size = 0x8
+
+[members.0x240]
+name = "setLocation_1"
+offset = 0x240
+type = "void* const"
+size = 0x8
+
+[members.0x248]
+name = "getPath"
+offset = 0x248
+type = "void* const"
+size = 0x8
+
+[members.0x250]
+name = "getPathComponent"
+offset = 0x250
+type = "void* const"
+size = 0x8
+
+[members.0x258]
+name = "childFromPath"
+offset = 0x258
+type = "void* const"
+size = 0x8
+
+[members.0x260]
+name = "init_2"
+offset = 0x260
+type = "void* const"
+size = 0x8
+
+[members.0x268]
+name = "requestTerminate"
+offset = 0x268
+type = "void* const"
+size = 0x8
+
+[members.0x270]
+name = "willTerminate"
+offset = 0x270
+type = "void* const"
+size = 0x8
+
+[members.0x278]
+name = "didTerminate"
+offset = 0x278
+type = "void* const"
+size = 0x8
+
+[members.0x280]
+name = "nextIdleTimeout"
+offset = 0x280
+type = "void* const"
+size = 0x8
+
+[members.0x288]
+name = "systemWillShutdown"
+offset = 0x288
+type = "void* const"
+size = 0x8
+
+[members.0x290]
+name = "copyClientWithCategory"
+offset = 0x290
+type = "void* const"
+size = 0x8
+
+[members.0x298]
+name = "configureReport"
+offset = 0x298
+type = "void* const"
+size = 0x8
+
+[members.0x2a0]
+name = "updateReport"
+offset = 0x2a0
+type = "void* const"
+size = 0x8
+
+[members.0x2a8]
+name = "getState"
+offset = 0x2a8
+type = "void* const"
+size = 0x8
+
+[members.0x2b0]
+name = "registerService"
+offset = 0x2b0
+type = "void* const"
+size = 0x8
+
+[members.0x2b8]
+name = "probe"
+offset = 0x2b8
+type = "void* const"
+size = 0x8
+
+[members.0x2c0]
+name = "start"
+offset = 0x2c0
+type = "void* const"
+size = 0x8
+
+[members.0x2c8]
+name = "stop"
+offset = 0x2c8
+type = "void* const"
+size = 0x8
+
+[members.0x2d0]
+name = "open"
+offset = 0x2d0
+type = "void* const"
+size = 0x8
+
+[members.0x2d8]
+name = "close"
+offset = 0x2d8
+type = "void* const"
+size = 0x8
+
+[members.0x2e0]
+name = "isOpen"
+offset = 0x2e0
+type = "void* const"
+size = 0x8
+
+[members.0x2e8]
+name = "handleOpen"
+offset = 0x2e8
+type = "void* const"
+size = 0x8
+
+[members.0x2f0]
+name = "handleClose"
+offset = 0x2f0
+type = "void* const"
+size = 0x8
+
+[members.0x2f8]
+name = "handleIsOpen"
+offset = 0x2f8
+type = "void* const"
+size = 0x8
+
+[members.0x300]
+name = "terminate"
+offset = 0x300
+type = "void* const"
+size = 0x8
+
+[members.0x308]
+name = "finalize"
+offset = 0x308
+type = "void* const"
+size = 0x8
+
+[members.0x310]
+name = "lockForArbitration"
+offset = 0x310
+type = "void* const"
+size = 0x8
+
+[members.0x318]
+name = "unlockForArbitration"
+offset = 0x318
+type = "void* const"
+size = 0x8
+
+[members.0x320]
+name = "terminateClient"
+offset = 0x320
+type = "void* const"
+size = 0x8
+
+[members.0x328]
+name = "getBusyState"
+offset = 0x328
+type = "void* const"
+size = 0x8
+
+[members.0x330]
+name = "adjustBusy"
+offset = 0x330
+type = "void* const"
+size = 0x8
+
+[members.0x338]
+name = "matchPropertyTable"
+offset = 0x338
+type = "void* const"
+size = 0x8
+
+[members.0x340]
+name = "matchPropertyTable_1"
+offset = 0x340
+type = "void* const"
+size = 0x8
+
+[members.0x348]
+name = "matchLocation"
+offset = 0x348
+type = "void* const"
+size = 0x8
+
+[members.0x350]
+name = "addNeededResource"
+offset = 0x350
+type = "void* const"
+size = 0x8
+
+[members.0x358]
+name = "compareProperty"
+offset = 0x358
+type = "void* const"
+size = 0x8
+
+[members.0x360]
+name = "compareProperty_1"
+offset = 0x360
+type = "void* const"
+size = 0x8
+
+[members.0x368]
+name = "compareProperties"
+offset = 0x368
+type = "void* const"
+size = 0x8
+
+[members.0x370]
+name = "attach"
+offset = 0x370
+type = "void* const"
+size = 0x8
+
+[members.0x378]
+name = "detach"
+offset = 0x378
+type = "void* const"
+size = 0x8
+
+[members.0x380]
+name = "getProvider"
+offset = 0x380
+type = "void* const"
+size = 0x8
+
+[members.0x388]
+name = "getWorkLoop"
+offset = 0x388
+type = "void* const"
+size = 0x8
+
+[members.0x390]
+name = "getProviderIterator"
+offset = 0x390
+type = "void* const"
+size = 0x8
+
+[members.0x398]
+name = "getOpenProviderIterator"
+offset = 0x398
+type = "void* const"
+size = 0x8
+
+[members.0x3a0]
+name = "getClient"
+offset = 0x3a0
+type = "void* const"
+size = 0x8
+
+[members.0x3a8]
+name = "getClientIterator"
+offset = 0x3a8
+type = "void* const"
+size = 0x8
+
+[members.0x3b0]
+name = "getOpenClientIterator"
+offset = 0x3b0
+type = "void* const"
+size = 0x8
+
+[members.0x3b8]
+name = "callPlatformFunction"
+offset = 0x3b8
+type = "void* const"
+size = 0x8
+
+[members.0x3c0]
+name = "callPlatformFunction_1"
+offset = 0x3c0
+type = "void* const"
+size = 0x8
+
+[members.0x3c8]
+name = "getResources"
+offset = 0x3c8
+type = "void* const"
+size = 0x8
+
+[members.0x3d0]
+name = "getDeviceMemoryCount"
+offset = 0x3d0
+type = "void* const"
+size = 0x8
+
+[members.0x3d8]
+name = "getDeviceMemoryWithIndex"
+offset = 0x3d8
+type = "void* const"
+size = 0x8
+
+[members.0x3e0]
+name = "mapDeviceMemoryWithIndex"
+offset = 0x3e0
+type = "void* const"
+size = 0x8
+
+[members.0x3e8]
+name = "getDeviceMemory"
+offset = 0x3e8
+type = "void* const"
+size = 0x8
+
+[members.0x3f0]
+name = "setDeviceMemory"
+offset = 0x3f0
+type = "void* const"
+size = 0x8
+
+[members.0x3f8]
+name = "registerInterrupt"
+offset = 0x3f8
+type = "void* const"
+size = 0x8
+
+[members.0x400]
+name = "unregisterInterrupt"
+offset = 0x400
+type = "void* const"
+size = 0x8
+
+[members.0x408]
+name = "getInterruptType"
+offset = 0x408
+type = "void* const"
+size = 0x8
+
+[members.0x410]
+name = "enableInterrupt"
+offset = 0x410
+type = "void* const"
+size = 0x8
+
+[members.0x418]
+name = "disableInterrupt"
+offset = 0x418
+type = "void* const"
+size = 0x8
+
+[members.0x420]
+name = "causeInterrupt"
+offset = 0x420
+type = "void* const"
+size = 0x8
+
+[members.0x428]
+name = "requestProbe"
+offset = 0x428
+type = "void* const"
+size = 0x8
+
+[members.0x430]
+name = "message"
+offset = 0x430
+type = "void* const"
+size = 0x8
+
+[members.0x438]
+name = "messageClient"
+offset = 0x438
+type = "void* const"
+size = 0x8
+
+[members.0x440]
+name = "messageClients"
+offset = 0x440
+type = "void* const"
+size = 0x8
+
+[members.0x448]
+name = "registerInterest"
+offset = 0x448
+type = "void* const"
+size = 0x8
+
+[members.0x450]
+name = "applyToProviders"
+offset = 0x450
+type = "void* const"
+size = 0x8
+
+[members.0x458]
+name = "applyToClients"
+offset = 0x458
+type = "void* const"
+size = 0x8
+
+[members.0x460]
+name = "applyToInterested"
+offset = 0x460
+type = "void* const"
+size = 0x8
+
+[members.0x468]
+name = "acknowledgeNotification"
+offset = 0x468
+type = "void* const"
+size = 0x8
+
+[members.0x470]
+name = "newUserClient"
+offset = 0x470
+type = "void* const"
+size = 0x8
+
+[members.0x478]
+name = "newUserClient_1"
+offset = 0x478
+type = "void* const"
+size = 0x8
+
+[members.0x480]
+name = "stringFromReturn"
+offset = 0x480
+type = "void* const"
+size = 0x8
+
+[members.0x488]
+name = "errnoFromReturn"
+offset = 0x488
+type = "void* const"
+size = 0x8
+
+[members.0x490]
+name = "PMinit"
+offset = 0x490
+type = "void* const"
+size = 0x8
+
+[members.0x498]
+name = "PMstop"
+offset = 0x498
+type = "void* const"
+size = 0x8
+
+[members.0x4a0]
+name = "joinPMtree"
+offset = 0x4a0
+type = "void* const"
+size = 0x8
+
+[members.0x4a8]
+name = "registerPowerDriver"
+offset = 0x4a8
+type = "void* const"
+size = 0x8
+
+[members.0x4b0]
+name = "requestPowerDomainState"
+offset = 0x4b0
+type = "void* const"
+size = 0x8
+
+[members.0x4b8]
+name = "activityTickle"
+offset = 0x4b8
+type = "void* const"
+size = 0x8
+
+[members.0x4c0]
+name = "setAggressiveness"
+offset = 0x4c0
+type = "void* const"
+size = 0x8
+
+[members.0x4c8]
+name = "getAggressiveness"
+offset = 0x4c8
+type = "void* const"
+size = 0x8
+
+[members.0x4d0]
+name = "addPowerChild"
+offset = 0x4d0
+type = "void* const"
+size = 0x8
+
+[members.0x4d8]
+name = "removePowerChild"
+offset = 0x4d8
+type = "void* const"
+size = 0x8
+
+[members.0x4e0]
+name = "setIdleTimerPeriod"
+offset = 0x4e0
+type = "void* const"
+size = 0x8
+
+[members.0x4e8]
+name = "setPowerState"
+offset = 0x4e8
+type = "void* const"
+size = 0x8
+
+[members.0x4f0]
+name = "maxCapabilityForDomainState"
+offset = 0x4f0
+type = "void* const"
+size = 0x8
+
+[members.0x4f8]
+name = "initialPowerStateForDomainState"
+offset = 0x4f8
+type = "void* const"
+size = 0x8
+
+[members.0x500]
+name = "powerStateForDomainState"
+offset = 0x500
+type = "void* const"
+size = 0x8
+
+[members.0x508]
+name = "powerStateWillChangeTo"
+offset = 0x508
+type = "void* const"
+size = 0x8
+
+[members.0x510]
+name = "powerStateDidChangeTo"
+offset = 0x510
+type = "void* const"
+size = 0x8
+
+[members.0x518]
+name = "askChangeDown"
+offset = 0x518
+type = "void* const"
+size = 0x8
+
+[members.0x520]
+name = "tellChangeDown"
+offset = 0x520
+type = "void* const"
+size = 0x8
+
+[members.0x528]
+name = "tellNoChangeDown"
+offset = 0x528
+type = "void* const"
+size = 0x8
+
+[members.0x530]
+name = "tellChangeUp"
+offset = 0x530
+type = "void* const"
+size = 0x8
+
+[members.0x538]
+name = "allowPowerChange"
+offset = 0x538
+type = "void* const"
+size = 0x8
+
+[members.0x540]
+name = "cancelPowerChange"
+offset = 0x540
+type = "void* const"
+size = 0x8
+
+[members.0x548]
+name = "powerChangeDone"
+offset = 0x548
+type = "void* const"
+size = 0x8
+
+[members.0x550]
+name = "init_3"
+offset = 0x550
+type = "void* const"
+size = 0x8
+
+[members.0x558]
+name = "scheduleNativePulse"
+offset = 0x558
+type = "void* const"
+size = 0x8
+
+[members.0x560]
+name = "schedulePulse"
+offset = 0x560
+type = "void* const"
+size = 0x8
+
+[members.0x568]
+name = "scheduleNanosecondPulse"
+offset = 0x568
+type = "void* const"
+size = 0x8
+
+[members.0x570]
+name = "scheduleNativeRepeatingPulse"
+offset = 0x570
+type = "void* const"
+size = 0x8
+
+[members.0x578]
+name = "scheduleRepeatingPulse"
+offset = 0x578
+type = "void* const"
+size = 0x8
+
+[members.0x580]
+name = "scheduleNanosecondRepeatingPulse"
+offset = 0x580
+type = "void* const"
+size = 0x8
+
+[members.0x588]
+name = "cancelRepeatingPulse"
+offset = 0x588
+type = "void* const"
+size = 0x8
