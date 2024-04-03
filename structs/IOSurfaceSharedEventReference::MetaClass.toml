@@ -1,0 +1,10 @@
+[metadata]
+name = "IOSurfaceSharedEventReference::MetaClass"
+size = 0x8
+last_change = 2024-04-03T08:32:07.940070Z
+
+[members.0x0]
+name = "vt"
+offset = 0x0
+type = "struct IOSurfaceSharedEventReference::MetaClass_vt* const"
+size = 0x8
