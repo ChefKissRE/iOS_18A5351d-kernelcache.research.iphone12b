@@ -1,0 +1,10 @@
+[metadata]
+name = "AppleUSBHostControllerListElement"
+size = 0x38
+last_change = 2024-04-03T08:32:07.949481Z
+
+[members.0x0]
+name = "vt"
+offset = 0x0
+type = "struct AppleUSBHostControllerListElement_vt* const"
+size = 0x8
