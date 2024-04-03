@@ -1,0 +1,10 @@
+[metadata]
+name = "AppleBCMWLANPCIeSkywalkTxCompletionQueue"
+size = 0x158
+last_change = 2024-04-03T08:32:07.944561Z
+
+[members.0x0]
+name = "vt"
+offset = 0x0
+type = "struct AppleBCMWLANPCIeSkywalkTxCompletionQueue_vt* const"
+size = 0x8
